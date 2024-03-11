@@ -1,0 +1,81 @@
+* {
+    margin: auto;
+    
+  }
+    
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2%;
+    background: #0F2027;
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+  
+}
+
+nav img {
+  padding-top: 0%;
+  padding-bottom: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+
+body {
+    background: #0F2027;
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+
+}
+
+.accueil {
+  display: flex;
+  flex-direction: row;
+}
+
+.textaccueil {
+  padding-top: 55px;
+  padding-bottom: 0px;
+  padding-left: 99px;
+  padding-right: 107px;
+  text-align: justify;
+  font-size: 1.1em;
+  color: white;
+  margin: inherit;
+  line-height: 1.5;
+
+}
+
+.photoaccueil {
+  padding-top: 49px;
+  padding-bottom: 0px;
+  padding-left: 0%;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 103px;
+    
+}
+
+.photoaccueil img {
+  box-shadow: 2.8px 2.8px 2.2px rgba(0, 0, 0, 0.037),
+  6.7px 6.7px 5.3px rgba(0, 0, 0, 0.053),
+  12.5px 12.5px 10px rgba(0, 0, 0, 0.065),
+  22.3px 22.3px 17.9px rgba(0, 0, 0, 0.077),
+  41.8px 41.8px 33.4px rgba(0, 0, 0, 0.093),
+  100px 100px 80px rgba(0, 0, 0, 0.13);
+  border-radius: 2%;
+}
