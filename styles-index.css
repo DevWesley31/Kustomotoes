@@ -3,14 +3,21 @@
     
   }
     
-nav {
+  nav {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    padding: 2%;
     background: #0F2027;
     background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
     background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    padding-top: 2%;
+    padding-bottom: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
   
 }
 
@@ -23,6 +30,13 @@ nav img {
   margin-bottom: 0%;
   margin-left: 0%;
   margin-right: 0%;
+  box-shadow:
+  0.5px 0.3px 2.2px rgba(0, 0, 0, 0.093),
+  3.8px 2.3px 5.5px rgba(0, 0, 0, 0.133),
+  11.3px 6.7px 10.8px rgba(0, 0, 0, 0.165),
+  25px 14.9px 19.8px rgba(0, 0, 0, 0.197),
+  50.4px 30.1px 37.8px rgba(0, 0, 0, 0.237),
+  114px 68px 91px rgba(0, 0, 0, 0.33);
 }
 
 body {
@@ -78,4 +92,74 @@ a {
   41.8px 41.8px 33.4px rgba(0, 0, 0, 0.093),
   100px 100px 80px rgba(0, 0, 0, 0.13);
   border-radius: 2%;
+}
+
+footer {
+  padding-top: 4%;
+  padding-bottom: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.div1 {
+  padding-top: 0%;
+  padding-bottom: 1%;
+  padding-left: 0%;
+  padding-right: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.div2 {
+  padding-top: 0%;
+  padding-bottom: 1%;
+  padding-left: 0%;
+  padding-right: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.div3 {
+  padding-top: 0%;
+  padding-bottom: 1%;
+  padding-left: 0%;
+  padding-right: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.div4 {
+  padding-top: 0%;
+  padding-bottom: 1%;
+  padding-left: 0%;
+  padding-right: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }

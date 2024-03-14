@@ -62,7 +62,7 @@ h1 {
   font-size: 1.4em;
 }
 
-.bobber-accueil {
+.caferacer-accueil {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -70,7 +70,7 @@ h1 {
   flex-wrap: wrap;
 } 
 
-.bobber-accueil img {
+.caferacer-accueil img {
   margin-top: 0%;
   margin-bottom: 0%;
   margin-left: 5%;
