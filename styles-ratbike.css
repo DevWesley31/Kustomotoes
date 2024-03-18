@@ -37,7 +37,7 @@ nav img {
   25px 14.9px 19.8px rgba(0, 0, 0, 0.197),
   50.4px 30.1px 37.8px rgba(0, 0, 0, 0.237),
   114px 68px 91px rgba(0, 0, 0, 0.33)
-
+;
 }
 
 body {
@@ -64,28 +64,28 @@ h1 {
   margin-bottom: 4%;
   margin-left: 0%;
   margin-right: 0%;
-  padding-top: 0%
+  padding-top: 0%;
   padding-bottom: 0%;
   padding-left: 0%;
   padding-right: 0%;
   border-radius: 0%;
 }
 
-.bobber-accueil {
+.ratbike-accueil {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  
+  margin: 1%;
 } 
 
-.bobber-accueil img {
+.ratbike-accueil img {
   margin-top: 1%;
-  margin-bottom: 1%;
-  margin-left: 5%;
+  margin-bottom: 7%;
+  margin-left: 0%;
   margin-right: 0%;
-  padding-top: 0%;
+  padding-top: 1%;
   padding-bottom: 0%;
   padding-left: 0%;
   padding-right: 0%;
